@@ -1,0 +1,12 @@
+train: C:\Users\ozidea\Desktop\Inovako\inovako.v1i.yolov8\train\images
+val: C:\Users\ozidea\Desktop\Inovako\inovako.v1i.yolov8\valid\images
+test: C:\Users\ozidea\Desktop\Inovako\inovako.v1i.yolov8\test\images
+nc: 3
+names: ['kiwi', 'mango', 'orange']
+
+roboflow:
+  workspace: bau-gamgt
+  project: inovako-ibsy9
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bau-gamgt/inovako-ibsy9/dataset/1
